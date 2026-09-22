@@ -1,0 +1,5 @@
+{
+  "db": {
+    "dsn": "postgresql://localhost:5432@user:password/dispensation"
+  }
+}

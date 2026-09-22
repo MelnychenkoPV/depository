@@ -1,0 +1,1 @@
+go run github.com/golang-migrate/migrate/v4/cmd/migrate create -ext sql -dir migration init
